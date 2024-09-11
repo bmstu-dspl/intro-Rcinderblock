@@ -118,6 +118,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # Signature
 
-ФИО:
+ФИО: Лолаев Роман Аркадьевич
 
-Группа:
+Группа: ИУ6-34Б
